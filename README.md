@@ -1,2 +1,5 @@
 # A-to-D
-Time planner for people with ADHD. Mainly, but not only :).
+'''Plan''' your '''work time''' with your new on-screen time planner.
+
+# Setup
+To use '''A-to-D''' you need to download and install ![python](https://www.python.org/downloads/).
